@@ -1,4 +1,3 @@
-import { copy } from "https://deno.land/std@0.167.0/streams/conversion.ts";
 import { readline } from "https://deno.land/x/readline@v1.1.0/mod.ts";
 
 const filename = 'elvefood';
