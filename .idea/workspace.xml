@@ -2,17 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1895843-07d5-408a-b81e-8de415c91cba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day1-2/elvefood" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1-2/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2-2/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2-2/strategy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elvefood" beforeDir="false" afterPath="$PROJECT_DIR$/day1-1/elvefood" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/day1-1/main.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/day1-1/main_test.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,12 +52,27 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Deno.day2-2">
     <configuration name="day1-2" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/day1-2/main.ts" programParameters="run --allow-net --allow-read" workingDirectory="$PROJECT_DIR$/day1-2">
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day2-1" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/day2-1/main.ts" programParameters="run --allow-net --allow-read" workingDirectory="$PROJECT_DIR$/day2-1">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day2-2" type="DenoConfigurationType" inputPath="$PROJECT_DIR$/day2-2/main.ts" programParameters="run --allow-net --allow-read" workingDirectory="$PROJECT_DIR$/day2-2">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Deno.day1-2" />
+      <item itemvalue="Deno.day2-1" />
+      <item itemvalue="Deno.day2-2" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669995207773</updated>
       <workItem from="1669995209077" duration="15000" />
-      <workItem from="1669995227220" duration="1199000" />
+      <workItem from="1669995227220" duration="3099000" />
     </task>
     <task id="LOCAL-00001" summary="feat: initial commit">
       <created>1669995438468</created>
@@ -75,7 +92,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669995438468</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: day1-2">
+      <created>1669996436505</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669996436506</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: day2-1">
+      <created>1669998082355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669998082355</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +114,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: initial commit" />
+    <MESSAGE value="feat: day1-2" />
+    <MESSAGE value="feat: day2-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: day2-1" />
   </component>
 </project>
